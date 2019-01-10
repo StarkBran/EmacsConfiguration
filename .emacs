@@ -9,3 +9,6 @@
 
 ;;关闭自动生成的备份文件
 (setq make-backup-files nil)
+
+;; 关闭启动帮助画面
+(setq inhibit-splash-screen 1)
